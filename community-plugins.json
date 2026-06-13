@@ -33010,5 +33010,12 @@
     "author": "Kunal1522",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Log focus sessions on a 90-day heatmap. No goals or timers — just a calm record of what you did.",
     "repo": "kunal1522/obsidian-focus-tracker"
-  }
+  },
+  {
+  "id": "lifeos",
+  "name": "LifeOS",
+  "author": "steven",
+  "description": "A visual life management dashboard for Obsidian that uses Markdown as a local database.",
+  "repo": "https://github.com/Unclesam-13/lifeos"
+}
 ]
