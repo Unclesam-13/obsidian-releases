@@ -33012,10 +33012,10 @@
     "repo": "kunal1522/obsidian-focus-tracker"
   },
   {
-  "id": "lifeos",
-  "name": "LifeOS",
+  "id": "life-manager-dashboard",
+  "name": "Life Manager Dashboard",
   "author": "steven",
-  "description": "A visual life management dashboard for Obsidian that uses Markdown as a local database.",
+  "description": "A visual life management dashboard that uses Markdown as a local database.",
   "repo": "Unclesam-13/lifeos"
 }
 ]
